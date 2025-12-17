@@ -1,4 +1,4 @@
-z// ==UserScript==
+// ==UserScript==
 // @name         Steam Workshop Load All Items
 // @namespace    http://tampermonkey.net/
 // @version      0.1
